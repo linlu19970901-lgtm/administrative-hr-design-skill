@@ -1,0 +1,4 @@
+interface:
+  display_name: 行政人力设计助手
+  short_description: 为行政人力物料做高质感主视觉、海报、邀请函与证书
+  default_prompt: 请为这次行政或人力活动设计一套有质感、信息清晰的传播物料。
